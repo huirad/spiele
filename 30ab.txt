@@ -1,0 +1,19 @@
+# 30 ab
+
+Würfelspiel für 2- Spieler
+- 6 Würfel
+- 1 Würfelbecher
+- Stift + Papier
+
+Spielende
+- jeder startet mit 30 Punkten und ist raus, wenn er nach eigenem Wurf keine Punkte mehr hat
+- wer übrig bleibt hat gewonnen
+
+Runde: im oder gegen Uhrzeigersinn
+- Erster Wurf mit allen 6 Würfeln
+- Dann _kann_ weiter gewürfelt werden, allerdings muss pro Wurf mindestens ein (weiterer) Würfel rausgelegt werden
+- Ist die Summe der Augen kleiner als 30, dann wird die Differenz vom eigenen Punktestand abgezogen
+- Ist die Summe der Augen größer als 30, dann muss man Würfe mit der entsprechenden Augenzahl sammeln.
+  - Los geht's wieder mit allen 6 Würfeln. 
+  - Solange ein mindestens ein Würfel die gesuchte Augenzahl hat, darf mit den verbleibenden weiter gewürfelt werden.
+  - Die Gesamtzahl der so gewürfelten Augen wird dann dem Punktestand des nächsten Spielers abgezogen.
